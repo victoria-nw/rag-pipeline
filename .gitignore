@@ -1,0 +1,14 @@
+aipipeline/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+chromadb/
+
+.vscode/
+.idea/
